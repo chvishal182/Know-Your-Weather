@@ -13,4 +13,4 @@ A basic weather forecast app that lets the enduser to know the primary weather c
 
 <h2>How does it works?</h2>
 <li>Know Your Weather uses a Weather API (https://openweathermap.org/api) to know the weather a of particular city. </li>
-<li>And after reading and getting the data from the API our App plays with the data and processes it according to the requirement and<ul> brings the us the information about the above mentioned features and completes it weather forcast task </ul>
+<li>And after reading and getting the data from the API our App plays with the data and processes it according to the requirement and brings the us the information about the above mentioned features and completes it weather forcast task </li>
